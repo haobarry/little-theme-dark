@@ -1,0 +1,22 @@
+{
+  "publisher": "barryz",
+  "name": "little-theme-dark",
+  "displayName": "little-theme-dark",
+  "description": "little-theme-dark",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "little-theme-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/little-theme-color-theme.json"
+      }
+    ]
+  }
+}
